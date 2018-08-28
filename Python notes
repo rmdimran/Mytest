@@ -1,0 +1,74 @@
+WHY PYTHON ?
+``````````
+-simple syntax and short -compared to other languages like - java
+-hackers prefer python for its ease of use
+-library support-lots of inbuilt functions-powerful web application development
+-very productive programming - time required to code is less.
+-object oriented
+-community support - for all developer/hacker/newbie/programmer
+-fastest growing language - in terms of 
+    - number of users & companies
+    - number of libraries
+    - areas of implementation (machine learning, gui,scientific calculations, web & software development)
+-General purpose language, simple & easy to learn ( Data scientists & Data researchers wanted a simple language to learn faster by spending less time on coding)
+-Interpreted language ( needs an interpreter to run code) object oreinted & highlevel language
+-was invented way before java in 1989
+-used by companies like google,nasa,dropbox, yahoo, youtube, reddit (completely built on python) etc
+
+
+---------------------------------------------------------------------------------------
+
+PYTHON INSTALLATION:
+```````````````````
+-Download python installation package from official website & install(use google for instructions - especially while installing on linux machine.)
+-python versions - 1.x,2.x,3.x - currently 3.x is in trend with lots of new features though 2.x is still running in market
+-setup the environment for running python (from command prompt/IDE)
+-Need an interpreter since its an interpreted language
+-Need an IDE - Integrated Development Environment - to build an application we need to build a project and code-debugging facility 
+    -Pycharm
+    -IDLE
+    -Anaconda
+
+WHY DO WE CODE ?
+``````````````
+-To talk to computer and get the work done.
+-Computer cant understand human speaking english. It can understand only binary language whereas Human cant understand binary language but english.
+-Coding is a language which both human & computer can understand.
+-So when we write a code instructing computer to perform certain task, it is converted into binary language instruction and the work is completed by computer.
+
+
+Working with operators - 
+`````````````````````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
