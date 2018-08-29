@@ -58,6 +58,24 @@ I  m  r  a  n
 -1 -2 -3 -4  -5
 
 
+LIST 
+-Mutable - can play around with inbuilt functions like add, append, remove, del, pop, extend, sum, min, max, sort etc;
+-we can anytime change the contents of the LIST anytime
+-it can accommodate different datatype values - int, float, string 
+- represented in square brackets - []
+
+TUPLE
+-Immutable - cannot change the contents of tuple anytime. 
+-[:] slicing option doesnt work in tuple
+-represented in { } 
+
+SET 
+- supports sequence of values of different datatypes
+- represented in ()
+- slicing option doesnt work [:]
+-always returns sorted values when the set contains all values of similar datatype
+-doesnt return duplicate values
+
 
 
 
