@@ -37,9 +37,25 @@ WHY DO WE CODE ?
 -So when we write a code instructing computer to perform certain task, it is converted into binary language instruction and the work is completed by computer.
 
 
-Working with operators - 
-`````````````````````
+Variables & Operators - 
+``````````````````````
+A variable denotes the name of the location where a value is stored. We can change it whenever we want and hence the name.
+we can assign a value to a variable - it can be of any data type and we can perform multiple operations on them
+while working with operators like + - * / % // - BODMAS principle is applicable
+while performing division operation : / gives quotient exact value , // gives rounded off quotient value, % gives reminder value 
+we can add a predefined string with a new string using + operator and we call it concatenation
+also we can add two strings using + operator 
+we can use inbuilt function len() to find length of a string
+Strings are immutable and hence we cant change the predefined string& its characters
+But we can use indexes to select particular part of a string and append it with some othe characters
+we can print characters of a string using notation string[x:y] here x denotes - starting index , y denotes last index but o/p returned will be till y-1 index
+we can use inbuilt function type() to get datatype of the particular variable
+when we use negative indexes on strings eg: String[-3] - it returns the character r from the right(reverse) in the below string
+I  m  r  a  n
 
+0  1   2   3  4
+ 
+-1 -2 -3 -4  -5
 
 
 
